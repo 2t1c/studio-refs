@@ -11,6 +11,7 @@ be drawn in our style there.
 | `the-last-light/mika.jpg` | Mika's character sheet (from Episode 1) | Toan, 2026-10-18 (project-infinity #806) |
 | `the-last-light/ren.jpg` | Ren's character sheet (from Episode 1) | Toan, 2026-10-18 (project-infinity #806) |
 | `editorial-cartoon-v1/approved-reference.png` | Editorial Cartoon v1 style sheet | Toan, 2026-10-16 |
+| `editorial-cartoon-v1/approved-scene-reference.jpg` | Scene look for every educational animation (Napoleon in a lantern-lit tent) | Toan, 2026-10-20 (project-infinity #844) |
 
 Link a file as `https://raw.githubusercontent.com/2t1c/studio-refs/main/<path>`.
 The source copies live in 2t1c/project-infinity (`studio/backend/static/assets/`, `studio/docs/art-styles/`).
